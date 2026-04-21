@@ -43,9 +43,9 @@ The system follows these steps:
   - flan-t5-base  
   - flan-t5-large  
 
----
 
-## 🧪 Experiments
+
+## Experiments
 - Model comparison:
   - flan-t5-base vs flan-t5-large  
   - Result: similar answers, large model slower  
